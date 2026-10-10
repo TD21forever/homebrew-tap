@@ -1,6 +1,6 @@
 cask "string-notes" do
-  version "0.10.2"
-  sha256 "1a11fd5522f8d59ea756a658b099c8f843e53520a169fda1c8c93f24857b090e"
+  version "0.11.0"
+  sha256 "40a236c7a40b86f866ca6220416f960f18e246628a4721515bd7c548de7808d0"
 
   url "https://github.com/TD21forever/string-notes/releases/download/v#{version}/StringNotes-#{version}-arm64.zip"
   name "绳上便笺"
