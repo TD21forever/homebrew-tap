@@ -8,7 +8,7 @@ cask "string-notes" do
   homepage "https://github.com/TD21forever/string-notes"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "绳上便笺.app"
 
