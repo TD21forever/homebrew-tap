@@ -1,8 +1,8 @@
 cask "string-notes" do
-  version "0.13.0"
+  version "0.13.1"
   arch arm: "arm64", intel: "x86_64"
-  sha256 arm: "0c4a8e5343a72284a75b96e32c18716a93ae14840251367cbac822b16514dc3e",
-         intel: "6e90e9f674fa174462031b37c332f6f2ec6de93addadc9b6c21079ee6ee7c43d"
+  sha256 arm: "ea628234e0ad3e0aa8104c005d66f5798b637dafd98fd8cde48c653ebf0c34dd",
+         intel: "670f571bd62fad615820e16b0ed058c346c9906a35687b94e246c72b1709dc99"
 
   url "https://github.com/TD21forever/string-notes/releases/download/v#{version}/StringNotes-#{version}-#{arch}.zip"
   name "绳上便笺"

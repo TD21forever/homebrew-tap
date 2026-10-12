@@ -8,7 +8,9 @@ Homebrew Casks for [TD21forever](https://github.com/TD21forever) apps.
 brew install --cask TD21forever/tap/string-notes
 ```
 
-绳上便笺 is a native macOS notes app. Version **0.13.0** supports Apple Silicon and Intel Macs running macOS 13+. Homebrew selects the matching package automatically. It is ad-hoc signed and not Apple-notarized.
+绳上便笺 is a native macOS notes app. Version **0.13.1** supports Apple Silicon and Intel Macs running macOS 13+. Homebrew selects the matching package automatically. It is ad-hoc signed and not Apple-notarized.
+
+0.13.1 修复设置选项显示旧值的问题。Version 0.13.1 fixes stale selections in Settings.
 
 新增应用内更新：检查新版、下载、验证签名、保存便笺后安装并重启。Updates now download, verify signatures, save notes, install, and relaunch within the app.
 
